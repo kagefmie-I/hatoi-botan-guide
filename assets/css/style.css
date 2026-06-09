@@ -158,7 +158,7 @@ main {
 .hero p,
 .page-title p,
 .section>p {
-  max-width: 760px;
+  max-width: 840px;
 }
 
 .hero-actions {
