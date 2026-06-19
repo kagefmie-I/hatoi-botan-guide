@@ -349,6 +349,10 @@ h3 {
   font-size: 0.82rem;
 }
 
+.image-slot.book {
+  aspect-ratio: 1 /1.6;
+}
+
 .project-image {
   display: block;
   width: 100%;
