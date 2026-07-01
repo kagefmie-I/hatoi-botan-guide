@@ -223,6 +223,11 @@ body::before {
   border-color: #dfe9cf;
 }
 
+.section.notice {
+  background: #f7c9d5;
+  border-color: var(--sakura-deep)
+}
+
 .section-heading {
   margin-bottom: 16px;
 }
